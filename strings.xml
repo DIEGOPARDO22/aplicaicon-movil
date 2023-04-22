@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">drawer_completo</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="mostrarSegundaActividad">mostrar la segunda actividad</string>
+    <string name="mostrarConversionMonedas">Conversion de monedas</string>
+    <string name="mostrarNavigatorDrawer">Navigator Drawer</string>
+    <string name="ingresarMonto">Ingresar monto</string>
+    <string name="Convertir">Calcular</string>
+    <string name="Dolares">A soles</string>
+    <string name="Soles">A dólares</string>
+    <string name="miClicManejador">miClicManejador</string>
+    <string name="convertir">Convertir:</string>
+    <string name="en">En:</string>
+    <color name="nuevoColor">#C5e2f0</color>
+    <string-array name="opciones_spinner">
+        <item>Euro</item>
+        <item>Libra</item>
+        <item>Rupia</item>
+        <item>Real</item>
+        <item>Peso</item>
+        <item>Yuan</item>
+        <item>Yen</item>
+        <item>Dolar</item>
+        <item>Soles</item>
+    </string-array>
+</resources>

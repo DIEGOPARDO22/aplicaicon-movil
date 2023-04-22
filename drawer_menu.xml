@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Menu">
+        <menu>
+            <item android:id="@+id/Inicio"
+                android:icon="@drawable/home"
+                android:title="inicio">
+            </item>
+
+            <item android:id="@+id/login"
+                android:icon="@drawable/login"
+                android:title="Login">
+            </item>
+
+            <item android:id="@+id/Money"
+                android:icon="@drawable/money"
+                android:title="Conversion monedas">
+            </item>
+
+            <item android:id="@+id/pizza"
+                android:icon="@drawable/pizza"
+                android:title="Pizzas">
+            </item>
+
+            <item android:id="@+id/creciente"
+                android:icon="@drawable/barcreciente"
+                android:title="Bar Creciente">
+            </item>
+        </menu>
+    </item>
+
+</menu>
